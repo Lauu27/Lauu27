@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Lauu27/Lauu27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌎 About Me  
+⚡ Hi! I’m Lautaro, a Web Developer since 2019. I'm passionate about learning new technologies and excited to work on projects to expand my skills.  
 
-Here are some ideas to get you started:
+## 📝 What I'm Working On  
+🌱 Learning WordPress, deepening my JavaScript knowledge, and exploring tools to improve my workflow.  
+💡 Always looking for new opportunities to collaborate and grow.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Tools  
+<p align="left">  
+  <a href="https://github.com/lautt27">
+    <img src="https://skillicons.dev/icons?i=css,html,php,js,cpp,mysql,postgres,bootstrap,wordpress,vscode">  
+  </a>  
+</p>
+
+## 📊 GitHub Stats  
+![Lautt27](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautt27&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+## 📃 Portfolio  
+🔗 Explore my skills and contact me: [Portfolio](https://lautt27.github.io/Portfolio/)
