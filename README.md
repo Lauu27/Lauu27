@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🌎 About Me  
 ⚡ Hi! I’m Lautaro, a Web Developer since 2019. I'm passionate about learning new technologies and excited to work on projects to expand my skills.  
 
