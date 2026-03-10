@@ -16,7 +16,7 @@ I enjoy building websites and learning new technologies, especially in front-end
 </p>
 
 ## 📊 GitHub Stats  
-![Lautt27](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautt27&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Lauu27](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautt27&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📃 Portfolio  
 🔗 Explore my projects, skills, and contact information here:  
