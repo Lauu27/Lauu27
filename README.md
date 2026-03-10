@@ -20,4 +20,4 @@ I enjoy building websites and learning new technologies, especially in front-end
 
 ## 📃 Portfolio  
 🔗 Explore my projects, skills, and contact information here:  
-👉 https://lautt27.github.io/Portfolio/
+👉 https://lauu27.github.io/Portfolio/
