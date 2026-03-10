@@ -1,9 +1,16 @@
 ## 🌎 About Me  
-⚡ Hi! I’m Lautaro, a Web Developer since 2019. I'm passionate about learning new technologies and excited to work on projects to expand my skills.  
+⚡ Hi! I’m Lautaro, a junior web developer and technical programming student.  
+I enjoy building websites and learning new technologies, especially in front-end development.  
+🚀 Check my pinned repositories below to see some of my work.
 
 ## 📝 What I'm Working On  
 🌱 Learning WordPress, deepening my JavaScript knowledge, and exploring tools to improve my workflow.  
-💡 Always looking for new opportunities to collaborate and grow.  
+💡 Always looking for opportunities to collaborate, learn, and gain professional experience.
+
+## 🎯 Current Focus  
+- Improving my JavaScript skills  
+- Learning WordPress development  
+- Building projects to expand my portfolio  
 
 ## 💻 Languages & Tools  
 <p align="left">  
@@ -13,7 +20,8 @@
 </p>
 
 ## 📊 GitHub Stats  
-![Lauu27](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautt27&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Lautt27](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautt27&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📃 Portfolio  
-🔗 Explore my skills and contact me: [Portfolio](https://lautt27.github.io/Portfolio/)
+🔗 Explore my projects, skills, and contact information here:  
+👉 https://lautt27.github.io/Portfolio/
