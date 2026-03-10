@@ -1,11 +1,7 @@
 ## 🌎 About Me  
-⚡ Hi! I’m Lautaro, a junior web developer and technical programming student.  
-I enjoy building websites and learning new technologies, especially in front-end development.  
+⚡ Hi! I’m Lautaro, a web developer with a Technical Degree in Programming.
+I enjoy building websites and learning new technologies, especially in front-end development.
 🚀 Check my pinned repositories below to see some of my work.
-
-## 📝 What I'm Working On  
-🌱 Learning WordPress, deepening my JavaScript knowledge, and exploring tools to improve my workflow.  
-💡 Always looking for opportunities to collaborate, learn, and gain professional experience.
 
 ## 🎯 Current Focus  
 - Improving my JavaScript skills  
